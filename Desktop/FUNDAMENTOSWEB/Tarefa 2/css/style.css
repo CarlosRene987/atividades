@@ -23,3 +23,6 @@ Style da pagina Estilo
     height: 50px;
     padding: 30px
 }
+.center {
+  text-align: center;
+}
