@@ -1,5 +1,5 @@
 .titulo{
-    color: rgba(0, 0, 255, 0.753);
+    color: blue;
     text-align: center;
 }
 
@@ -10,7 +10,5 @@
     margin: 0 auto;
 }
 
-.temas{
-    color: rgba(0, 0, 0, 0.753);
-    text-align: center;
-}
+
+
