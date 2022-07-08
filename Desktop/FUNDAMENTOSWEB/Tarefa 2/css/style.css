@@ -1,0 +1,28 @@
+/*
+Style da pagina Estilo
+*/
+
+.p1 {
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+.container {
+    display: flex;
+  justify-content: center;
+ margin: 30px;
+}
+
+.espaco {
+    padding:30px
+}
+.tamanho {
+    
+    width: 50px;
+    height: 50px;
+    padding: 30px
+}
+.center {
+  text-align: center;
+}
